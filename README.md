@@ -1,2 +1,2 @@
 # Travis-Raffle-Entry
-Enter entries into TS Raffles
+Import profiles into your `data.csv` file.
